@@ -1,0 +1,31 @@
+scenario,agent_id,region,food,health,alive
+A,A01,River Valley,3.0,10.0,True
+A,A02,River Valley,3.0,10.0,True
+A,A03,River Valley,3.0,10.0,True
+A,A04,River Valley,3.0,10.0,True
+A,A05,River Valley,3.0,10.0,True
+A,A06,Drylands,3.0,10.0,True
+A,A07,Drylands,3.0,10.0,True
+A,A08,River Valley,3.0,10.0,True
+A,A09,River Valley,2.639999999999997,10.0,True
+A,A10,River Valley,3.0,10.0,True
+B,A01,River Valley,3.0,10.0,True
+B,A02,River Valley,3.0,10.0,True
+B,A03,River Valley,3.0,10.0,True
+B,A04,River Valley,3.0,10.0,True
+B,A05,River Valley,3.0,10.0,True
+B,A06,River Valley,3.0,10.0,True
+B,A07,Drylands,3.0,10.0,True
+B,A08,Drylands,3.0,10.0,True
+B,A09,River Valley,3.0,10.0,True
+B,A10,River Valley,3.0,10.0,True
+C,A01,River Valley,3.0,10.0,True
+C,A02,River Valley,3.0,10.0,True
+C,A03,River Valley,3.0,10.0,True
+C,A04,River Valley,3.0,10.0,True
+C,A05,River Valley,3.0,10.0,True
+C,A06,River Valley,3.0,10.0,True
+C,A07,Drylands,3.0,10.0,True
+C,A08,Drylands,3.0,10.0,True
+C,A09,Drylands,3.0,10.0,True
+C,A10,Drylands,3.0,10.0,True

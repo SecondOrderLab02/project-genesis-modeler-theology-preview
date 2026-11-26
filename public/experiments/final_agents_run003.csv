@@ -1,0 +1,21 @@
+mode,agent_id,region,food,health,alive,moves
+static,A01,River Valley,3.0,10.0,True,0
+static,A02,River Valley,3.0,10.0,True,0
+static,A03,River Valley,3.0,10.0,True,0
+static,A04,River Valley,0.0,0.0,False,0
+static,A05,River Valley,0.0,0.0,False,0
+static,A06,River Valley,0.0,0.0,False,0
+static,A07,Drylands,3.0,10.0,True,0
+static,A08,Drylands,3.0,10.0,True,0
+static,A09,Drylands,3.0,10.0,True,0
+static,A10,Drylands,3.0,10.0,True,0
+adaptive,A01,River Valley,3.5,10.0,True,0
+adaptive,A02,River Valley,3.5,10.0,True,0
+adaptive,A03,River Valley,3.5,10.0,True,0
+adaptive,A04,Drylands,3.5,10.0,True,1
+adaptive,A05,Drylands,3.5,10.0,True,1
+adaptive,A06,Drylands,3.5,10.0,True,1
+adaptive,A07,Drylands,3.5,10.0,True,0
+adaptive,A08,Drylands,0.5,0.0,False,0
+adaptive,A09,Drylands,0.0,0.0,False,0
+adaptive,A10,Drylands,0.0,0.0,False,0

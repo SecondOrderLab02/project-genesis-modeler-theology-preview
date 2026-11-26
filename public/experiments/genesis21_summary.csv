@@ -1,0 +1,4 @@
+scenario,forest_before,forest_after,forest_jump,final_total_stock,anomaly_flags,forest_flags
+control,0.0,0.0,0.0,0.0,7,1
+hidden,0.0,35.0,35.0,0.0,7,1
+public,0.0,35.0,35.0,0.0,7,1

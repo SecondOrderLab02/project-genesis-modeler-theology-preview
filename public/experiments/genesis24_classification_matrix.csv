@@ -1,0 +1,5 @@
+true_scenario,law_shift,local_injection,natural_control,sensor_bias
+law_shift,1.0,0.0,0.0,0.0
+local_injection,0.0,1.0,0.0,0.0
+natural_control,0.0,0.0,1.0,0.0
+sensor_bias,0.0,0.0,0.0,1.0
